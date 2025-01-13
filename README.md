@@ -1,4 +1,4 @@
-#Plinko Physics Simulator
+# Plinko Physics Simulator
 Plinko Physics Simulator is an interactive physics-based project inspired by the classic Plinko game. Developed using the p5.js library and Matter.js physics engine, this program simulates the behavior of particles (or “plinko balls”) interacting with divisions, obstacles, and gravity. It’s a fun and educational way to explore physics concepts such as collision, motion, and randomness in an engaging visual format.
 
 Features
